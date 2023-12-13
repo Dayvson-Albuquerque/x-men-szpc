@@ -1,2 +1,2 @@
 # x-men-szpc
-Projeto de teste de aprendizado do projeto gratuito disponibilizado pelo DEVEMDOBRO, site com base em HTML, CSS e JavaScript onde mostra uma lista de seleção de personagens do iconico desenho X-man.
+Free project learning test project made available by DEVEMDOBRO, a website based on HTML, CSS and JavaScript that shows a selection list of characters from the iconic X-man cartoon.
